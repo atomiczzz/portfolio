@@ -102,6 +102,10 @@ header .intro-text .skills {
     font-size: 1.75em;
   }
 }
+
+#davidPic {
+  border-radius: 50%;
+}
 .navbar-custom {
   background: #2C3E50;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
