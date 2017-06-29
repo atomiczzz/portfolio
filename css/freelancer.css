@@ -103,7 +103,7 @@ header .intro-text .skills {
   }
 }
 
-#maincontent #davidpic {
+div#davidpic {
   border-radius: 50%;
 }
 .navbar-custom {
