@@ -1,7 +1,6 @@
-// Freelancer Theme JavaScript
 
 (function($) {
-    "use strict"; // Start of use strict
+    "use strict" // Start of use strict
 
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $('.page-scroll a').bind('click', function(event) {
@@ -19,7 +18,7 @@
     });
 
     // Closes the Responsive Menu on Menu Item Click
-    $('.navbar-collapse ul li a').click(function(){ 
+    $('.navbar-collapse ul li a').click(function(){
             $('.navbar-toggle:visible').click();
     });
 

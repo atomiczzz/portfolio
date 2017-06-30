@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -78,6 +74,7 @@ header .container {
 header img {
   display: block;
   margin: 0 auto 20px;
+  border-radius: 50%;
 }
 header .intro-text .name {
   display: block;
